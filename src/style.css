@@ -1,5 +1,10 @@
 body{
     background-color: #F5E6FF;
+    .playwrite-es-deco-<uniquifier> {
+            font-family: "Playwrite ES Deco", cursive;
+            font-optical-sizing: auto;
+            font-weight: <weight>;
+            font-style: normal; }
 }
 
 .weather-app{
